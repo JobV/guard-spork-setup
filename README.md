@@ -1,5 +1,7 @@
 # Guard with Spork for RSpec, Cucumber and Test::Unit
 
+by [JanDintel](https://github.com/jandintel) and [JobV](https://github.com/JobV)
+
 ## Gems
 ```ruby
 group :development, :test
